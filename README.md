@@ -1,5 +1,35 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+   I built a small tool to answer a simple question:
+
+**“If I want to get this outfit stitched, how much is it going to cost?”**
+
+Getting clothes tailored can involve a lot of different things — fabric, design, measurements, stitching type, and customizations.
+
+So instead of making users guess the final price, I built a tailoring price estimation tool.
+
+Users can enter their requirements and get an estimated cost before they actually place an order.
+
+But I did not want it to be just another calculator.
+
+So I built it as a combination of a tool and a blog.
+
+The tool helps users estimate the cost.
+
+The blog helps them understand things like tailoring, fabrics, measurements, styles, and other questions they might have before getting something stitched.
+
+That creates a simple flow:
+
+**Learn → Estimate → Make a decision**
+
+Technically, it was also a good exercise in building a product around more than one use case — combining interactive tools with content and SEO.
+
+It reminded me that sometimes a useful product does not need to be complicated.
+
+You just need to answer a question people already have.
+
+#NextJS #WebDevelopment #FullStackDevelopment #ProductDevelopment
+
 </div>
 
 # Run and deploy your AI Studio app
